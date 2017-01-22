@@ -1,0 +1,7 @@
+#to ignore
+bin/
+build/
+*.class
+.settings/
+.classpath
+.project
